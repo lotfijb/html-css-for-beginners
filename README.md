@@ -1,2 +1,4 @@
 # HTML & CSS FOR BEGINNERS
-HTML &amp; CSS practices for web dev starters
+## Who is this for ?
+''' HTML
+<h3>Absolute beginners</h3>
