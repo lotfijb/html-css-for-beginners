@@ -23,3 +23,6 @@ console.log("You will find HTML & CSS resources and best practices for beginners
 ## What is CSS ?
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (Cascading Style Sheets) is a stylesheet language used to describe the presentation of a document written in HTML, it describes how elements should be rendered on screen.
 
+## How will you learn ?
+You will find ordered folders so you don't think a lot about where to start, in each folder you will find all types of resources (videos, courses, books, etc..) because not everyone likes to learn through books, for example, you might prefer a video etc..
+You will find all you need and it's up to you to pick what suits you the best.
