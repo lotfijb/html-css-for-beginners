@@ -4,7 +4,8 @@
 ``` HTML
 <h3>Absolute beginners</h3>
 <p>If you are new to web development and want to try to build websites from scratch, this repository is for you.</p>
-<p>This will be like your first step into front end development and note that you will not learn everything simply because nobody<br> has all knowledge, so this is just to make you gain time and know where to start.</p>
+<p>This will be like your first step into front end development and note that you will not learn everything simply because nobody
+  has all knowledge, so this is just to make you gain time and know where to start.</p>
 ```
 
 ## What's in this repository ?
