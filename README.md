@@ -29,7 +29,7 @@ You will find all you need and it's up to you to pick what suits you the best.
 * It's a self paced learning process so feel free to learn whenever you want. JUST BE CONSISTENT WITH IT.
 
 ## Why am I making this ❓
-It's not because you can't make a google search and find resources, or it is hard for you to find a (front end roadmap)[https://roadmap.sh/frontend], when I started to learn web development last year, I got lost, internet is filled with books and courses and you don't exactly know as a starter which one to pick so I decided to make this so you go straight to your point.
+It's not because you can't make a google search and find resources, or it is hard for you to find a [front end roadmap](https://roadmap.sh/frontend), when I started to learn web development last year, I got lost, internet is filled with books and courses and you don't exactly know as a starter which one to pick so I decided to make this so you go straight to your point.
 
 ## Final notes ✍️
 * I will do my best to keep this updated with new exercices and helpful resources.
