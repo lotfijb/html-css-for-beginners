@@ -1,5 +1,5 @@
 # HTML & CSS FOR BEGINNERS
 ## Who is this for ?
-''' HTML
+``` HTML
 <h3>Absolute beginners</h3>
-'''
+```
