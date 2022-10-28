@@ -35,7 +35,7 @@ It's not because you can't make a google search and find resources, or it is har
 * I will do my best to keep this updated with new exercices and helpful resources.
 * This is not the perfect way to start web dev as there are plenty of other methods to do it, this just worked for me and it might work for you too.
 * Consistency is key to learn how to code.
-* [Setting up your development environment](https://www.youtube.com/watch?v=H2gvHxC9gFY) : I will share my configuration and setup if you want to follow it.
+* [Setting up your development environment](https://www.youtube.com/watch?v=H2gvHxC9gFY) : This is a good beginner-friendly setup to start with (I will share my configuration and setup if you want to follow it.)
 * KEEP LEARNING AND GOOD LUCK.
 
 ## Contributions
