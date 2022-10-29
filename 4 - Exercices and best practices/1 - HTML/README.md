@@ -16,3 +16,12 @@ Add your name, age, how people can connect with you, your academic experience, y
 
 # CONTRIBUTING
 You can contribute by writing your own code for the projects mentioned above and best ones are going to be added to the repository and mentioning the contributors.
+## Follow these rules when contribtuing :
+* Fork the repository
+* Clone it to your local environment
+* Make changes on another branch
+* * Create a folder `your-github-username_project-name`
+* * Create a file `your-github-username_project-name.html`
+* Commit your changes
+* Push to your branch
+* Make a Pull Request
