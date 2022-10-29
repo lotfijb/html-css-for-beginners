@@ -4,13 +4,13 @@ As a beginner, it may be challenging for you to find the right fit of HTML proje
 
 # PROJECTS
 
-- ## A tribute page ( See example here )
+- ## A tribute page ( [Click here for example](https://github.com/lotfijb/html-css-for-beginners/blob/main/4%20-%20Exercices%20and%20best%20practices/1%20-%20HTML/lotfijb_tribute_elon_musk/lotfijb_tribute.html) )
 This is one of the most simple HTML projects you can make. As you can guess by the name, a tribute page shows respect for someone who inspires you, or someone you admire and revere. To make a tribute page, you only need to know fundamental HTML concepts.
 
-- ## A survey form ( See example here )
+- ## A survey form ( [Click here for example](https://github.com/lotfijb/html-css-for-beginners/blob/main/4%20-%20Exercices%20and%20best%20practices/1%20-%20HTML/lotfijb_survey_form/lotfijb_survey_form.html) )
 Websites often include forms as a part of their customer data collection strategy. A well-made survey form can help you acquire relevant information about your target audiences like their demographic age, job, location, taste and preference, and pain points. This HTML project is a great way to test your skills and knowledge of designing forms and structuring a webpage
 
-- ## Build your resume ( See example here )
+- ## Build your resume ( [Click here for example](https://github.com/lotfijb/html-css-for-beginners/blob/main/4%20-%20Exercices%20and%20best%20practices/1%20-%20HTML/lotfijb_resume/lotfijb_resume.html) )
 This project is considered as a good practice because it includes the usage of lists, paragraphs, sections etc...
 Add your name, age, how people can connect with you, your academic experience, your tech and non tech skills, projects, certifications etc.. feel free to put whatever you want.
 
