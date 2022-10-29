@@ -20,8 +20,8 @@ You can contribute by writing your own code for the projects mentioned above and
 * Fork the repository
 * Clone it to your local environment
 * Make changes on another branch
-* * Create a folder `your-github-username_project-name`
-* * Create a file `your-github-username_project-name.html`
+  * Create a folder `your-github-username_project-name`
+  * Create a file `your-github-username_project-name.html`
 * Commit your changes
 * Push to your branch
 * Make a Pull Request
