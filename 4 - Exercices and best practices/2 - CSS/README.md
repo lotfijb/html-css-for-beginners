@@ -24,7 +24,7 @@ Get your hands on the keyboard and try your best, be creative and try to re-styl
 - ## Choose a website and clone it  
 Feel free to pick one of thousands of websites that you visited and visually appeal you , now try to replicate it.
 
-# ONLINE CSS PRACTICES : 
+# ONLINE CSS PRACTICES  
 
 - ## [CSS Diner](https://flukeout.github.io)
 The goal is to use CSS statements to select specific UI elements on the screen. If the entered rules are correct, we can pass to the following level. There are 32 levels in total.
