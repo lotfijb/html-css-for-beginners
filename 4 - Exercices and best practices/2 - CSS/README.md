@@ -1,6 +1,6 @@
 *Make these projects with HTML and CSS*
 
-If you are a new coder who has just started learning HTML and CSS and wants to enhance your portfolio and refine your skills, you might wonder what kind of projects you should be working on. The good thing is that beginners can use a variety of projects to practice coding, develop their abilities, learn ... Here are some.
+If you are a new coder who has just started learning HTML and CSS and wants to enhance your portfolio and refine your skills, you might wonder what kind of projects you should be working on. The good thing is that beginners can use a variety of projects to practice coding, develop their abilities, learn ... Here are some for you to practice what you learnt and then move to bigger projects.
 
 # PROJECTS
 
