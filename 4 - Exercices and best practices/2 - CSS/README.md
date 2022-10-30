@@ -4,6 +4,7 @@ If you are a new coder who has just started learning HTML and CSS and wants to e
 
 # PROJECTS
 
+*You can try other projects on your own , these are just the best practices that I did myself back when I was learning*
 - ## Style your tribute page ()
 Add styling to the tribute page you made on HTML practices.
 
