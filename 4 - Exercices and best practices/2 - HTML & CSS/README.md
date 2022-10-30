@@ -2,13 +2,16 @@
 
 If you are a new coder who has just started learning HTML and CSS and wants to enhance your portfolio and refine your skills, you might wonder what kind of projects you should be working on. The good thing is that beginners can use a variety of projects to practice coding, develop their abilities, learn ... Here are some for you to practice what you learnt and then move to bigger projects.
 
+### Note :exclamation:
+Source code given here is the minimum you can do, it is not the best as it's only something to show you the difference Styled HTML vs Not styled HTML, you can of course play around and add a lot of other things.
+
 # PROJECTS
 
 *You can try other projects on your own , these are just the best practices that I did myself back when I was learning*
-- ## Style your tribute page ()
+- ## Style your tribute page ( [See example here](https://github.com/lotfijb/html-css-for-beginners/tree/main/4%20-%20Exercices%20and%20best%20practices/2%20-%20HTML%20%26%20CSS/lotfijb_tribute_elon_musk) ) 
 Add styling to the tribute page you made on HTML practices.
 
-- ## Style your survey form ()
+- ## Style your survey form ( [See example here](https://github.com/lotfijb/html-css-for-beginners/tree/main/4%20-%20Exercices%20and%20best%20practices/2%20-%20HTML%20%26%20CSS/lotfijb_survey_form) )
 Add styling to the survey form you made on HTML practices.
 
 - ## Landing page ()
