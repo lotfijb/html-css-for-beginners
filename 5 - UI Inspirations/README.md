@@ -4,3 +4,15 @@ If most websites are very conventional and often follow the same rules in terms 
 
 - # [Awwwards](https://www.awwwards.com/)
 Awwwards is a website that rewards the most innovative and creative website designs on the web. The websites presented are constantly updated. So you can keep it in your favorites to admire regularly the last creations.
+
+- # [CSS Design Awards](https://www.cssdesignawards.com/)
+This site is another webdesign award site. It mainly aims to show how CSS can be used in a more creative and original way. It is a real source of inspiration.
+
+- # [One Page Love](https://onepagelove.com/)
+As the name suggests, One Page Love highlights the innovative one-page websites and designs that can be created in the One Page format.
+
+- # [Dribbble](https://dribbble.com/tags/web_design_showcase)
+Dribbble is a site where designers can showcase their work and get hired for their work. However, you can also simply use it to get new ideas from the most popular portfolios.
+
+- # [Web Design Inspiration](https://www.webdesign-inspiration.com/)
+As the name suggests, this site is all about web design inspiration. The many features of these great designs will certainly leave you with a new perspective on how to approach your work.
