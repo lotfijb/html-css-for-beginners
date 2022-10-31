@@ -33,6 +33,7 @@ console.log("You will find HTML & CSS resources and best practices for beginners
 You will find ordered folders so you don't think a lot about where to start, in each folder you will find all types of resources (videos, courses, books, etc..) because not everyone likes to learn through books, for example, you might prefer a video etc..
 You will find all you need and it's up to you to pick what suits you the best.
 * It's a self paced learning process so feel free to learn whenever you want. JUST BE CONSISTENT WITH IT.
+* A file with web design inspirations is for you to get your hands on the keyboard and inspire from thousands of amazing and creative websites for your next project.
 
 ## Why am I making this ❓
 It's not because you can't make a google search and find resources, or it is hard for you to find a [front end roadmap](https://roadmap.sh/frontend), when I started to learn web development last year, I got lost, internet is filled with books and courses and you don't exactly know as a starter which one to pick so I decided to make this so you go straight to your point.
