@@ -15,4 +15,4 @@ Try aiming for one hour each day and note that it's okay to fall short - no one 
 
 ### Contribute to Open-source projects  
 - Open source contribution can be an amazing learning experience. It allows you to give back to and be a part of communities that build valuable open source projects. - It enables you to make already made websites better. Although it can be tough to start, once you get the hang of it, it is immensely rewarding.
-- It is a great way to flex your deevlopment muscles :muscle: and it will put your learning into real world projects.
+- It is a great way to flex your development muscles :muscle: and it will put your learning into real world projects.

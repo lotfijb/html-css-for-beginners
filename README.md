@@ -2,6 +2,9 @@
 
 
 # HTML & CSS FOR BEGINNERS 🌍
+<p align="center">
+<img src="https://www.iim.fr/ecole-web/wp-content/uploads/2017/01/HTML5.jpg" width="500" >
+</p>
 
 ## Who is this for  🧑‍🤝‍🧑
 ``` HTML
