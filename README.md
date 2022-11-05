@@ -47,5 +47,6 @@ It's not because you can't make a google search and find resources, or it is har
 
 ## Contributions
 This is an open source project, all contributions that will add value to this project are welcome 😃
+#### A contributing.md is being prepared to give you more details about contributing to this repository and how you can do it :smiley:
 
 ### Don't forget to star ⭐
