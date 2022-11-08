@@ -1,6 +1,4 @@
 
-
-
 # HTML & CSS FOR BEGINNERS 🌍
 <p align="center">
 <img src="https://www.iim.fr/ecole-web/wp-content/uploads/2017/01/HTML5.jpg" width="500" >
@@ -46,7 +44,7 @@ It's not because you can't make a google search and find resources, or it is har
 * KEEP LEARNING AND GOOD LUCK.
 
 ## Contributions
-This is an open source project, all contributions that will add value to this project are welcome 😃
+This is an open source project, all contributions that will add value to this project are welcome including resources, exercices even some advices here in this README file 😃
 #### A contributing.md is being prepared to give you more details about contributing to this repository and how you can do it :smiley:
 
 ### Don't forget to star ⭐
