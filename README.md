@@ -48,3 +48,5 @@ This is an open source project, all contributions that will add value to this pr
 #### A contributing.md is being prepared to give you more details about contributing to this repository and how you can do it :smiley:
 
 ### Don't forget to star ⭐
+
+#### 25/11 : This project is on hold as I am working on [Bullet Journal extension](https://github.com/lotfijb/bullet-journal-extension)
